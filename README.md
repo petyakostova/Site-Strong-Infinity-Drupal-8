@@ -7,14 +7,10 @@ A custom Website with articles and events, created with: Drupal 8, Acquia Dev De
     * [Task Part 1](/documents/site-building-task.pdf)
     * Task Part 2:
         * Create a custom theme.
-        
-![Theme Screenshot](screenshots/my-custom-theme-strong-infinity.PNG)
         * Create different styles for the Events table:
             * green - for the future events;
             * red - for the closest event;
             * grey - for the previous events.
-
-![Events Screenshot](screenshots/1-events-2018-08-08.png)
 
 * My solution - Explanation:
     * [Part 1](/documents/Solution%20Part%201%20-%20Magazine%20website%20-%20my%20first%20Drupal%20website.docx)
