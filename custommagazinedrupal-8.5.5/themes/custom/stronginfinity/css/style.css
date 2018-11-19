@@ -1,0 +1,157 @@
+html, body {
+    font-family: 'Open Sans', Arial, Sans-serif;
+    font-size: 100%;
+}
+
+/*header & navigation*/
+
+.navbar.navbar-default.container {
+    background-color: #5278B3;
+}
+
+.name.navbar-brand, .name.navbar-brand:hover {
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.navbar-default .navbar-text {
+    color: #FFFFFF;
+    font-style: italic;
+}
+
+.menu.menu--main.nav.navbar-nav {
+    float: right;
+}
+
+#block-stronginfinity-main-menu ul li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+#block-stronginfinity-main-menu ul li a.is-active {
+    color: #5278B3;
+    background-color: #E7E7E7;
+}
+
+/*User account menu*/
+
+.menu.menu--account.nav.navbar-nav.navbar-right {
+    margin-right: 35px;
+}
+
+/* titles of pages */
+
+h1, h2 {
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+h2 a {
+    font-size: 28px;
+    color: #505050;
+    text-decoration: none;
+}
+
+h2 a:hover {
+    text-decoration: none;
+}
+
+/*Home page*/
+
+.author {
+    font-style: italic;
+}
+
+/*removed .quickedit-field selector because of Log out mode*/
+/*div.field.field--name-body.field--type-text-with-summary.field--label-hidden.field--item.quickedit-field,*/
+div.field.field--name-body.field--type-text-with-summary.field--label-hidden.field--item {
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+ul.links.inline.list-inline li.node-readmore a {
+    padding: 10px 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #5278B3;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.25em;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: transparent;
+}
+
+/*Events page*/
+
+.table.table-hover.table-striped:first-child {
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.table .views-field.views-field-title a {
+    /*text-transform: uppercase;*/
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.table > tbody > tr > td {
+    text-transform: none;
+    font-size: 16px;
+}
+
+/* each Event page*/
+
+div[data-quickedit-field-id] {
+    margin-top: 15px;
+}
+
+/*Category pages*/
+
+.views-field.views-field-title a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+    color: #505050;
+    letter-spacing: 0.1em;
+    line-height: 1.20;
+    font-weight: 300;
+}
+
+.views-field.views-field-field-reading-time {
+    font-style: italic;
+}
+
+.views-row {
+    margin-bottom: 40px;
+}
+
+/*for each Category page*/
+
+div.region.region-content img {
+    max-width: 847.5px;
+    height: auto;
+}
+
+/*Footer*/
+
+.feed-icons {
+    display: none;
+}
+
+.footer.container {
+    background-color: #5278B3;
+}
+
+.region.region-footer, .region-footer span a {
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+/*Future events in sidebar */
+.event.is-promoted.sidebar-events-view-mode.clearfix h2 a span{
+    font-size: 22px;
+}

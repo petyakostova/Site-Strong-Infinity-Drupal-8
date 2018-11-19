@@ -1,0 +1,14 @@
+stronginfinity-global:
+  css:
+    css/style.css: {}
+  js:
+    js/main.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettings
+
+opensans:
+  css:
+    theme:
+      https://fonts.googleapis.com/css?family=Open+Sans: { type: external }
+      css/style.css: {}
