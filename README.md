@@ -9,7 +9,7 @@ I have created a custom theme [**Strong Infinity**](custommagazinedrupal-8.5.5/t
 
 ## Description
 
-* **Task Part I:** [Full description of part I of the task](/documents/site-building-task.pdf)
+#### **Task Part I:** [Full description of part I of the task](/documents/site-building-task.pdf)
 1. Installed Drupal 8.
     
 2. Installed and enabled the Admin Toolbar module.
@@ -39,7 +39,7 @@ I have created a custom theme [**Strong Infinity**](custommagazinedrupal-8.5.5/t
 
 5. Builded category pages via Views module:
    * Events => path: /events. Get only Title, Image and Date fields. Sort the events by Date field – the most recent one should be at the top.
-     + Events Page looks like this:
+     + On 22.08.2018 Events Page looked like this:
      
        ![Events Page 22.08.2018](screenshots/1-events-2018-08-22.png)
    * Sports, Health and Fashion => Fetch only articles of current category. Get only the Title, Reading Time and Image fields. Sort the articles by Content: Authored On. The latest articles should be displayed at the top.
@@ -72,7 +72,7 @@ I have created a custom theme [**Strong Infinity**](custommagazinedrupal-8.5.5/t
 
 11. Created and published real content: 5 articles per each category and 5 events.
 
-* **Task Part II:**
+#### **Task Part II:**
 
 12. Created a custom theme - Strong Infinity:
     ![My custom theme Strong Infinity](screenshots/my-custom-theme-strong-infinity.PNG)
