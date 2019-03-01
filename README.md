@@ -7,6 +7,8 @@
 
 I have created a custom theme [**Strong Infinity**](custommagazinedrupal-8.5.5/themes/custom/stronginfinity "The source code of My custom theme") using: **Drupal 8, Acquia Dev Desktop 2, JavaScript, jQuery, CSS3**.
 
+The header includes: Logo, Name, Slogan, Home page, Events page and 3 pages for the categories (Sports, Health, Fashion). 
+
 ## Description
 
 #### **Task Part I:** [Full description of part I of the task](/documents/site-building-task.pdf)
@@ -86,6 +88,16 @@ I have created a custom theme [**Strong Infinity**](custommagazinedrupal-8.5.5/t
     Events Page looks like this for `user #1` or `/user/1` or `The superuser` (who sets up the Drupal site and has full access):
     
       ![Events Page](screenshots/user-1-events.png)
+	  
+14. Added Slogan (Strong in Body, Strong in Spirit).
+
+15. Updated Structure.
+
+16. Created Image style for the Article categories pages.
+
+17. Created Sidebar Search.
+
+18. Created sidebar events, named Future Events, showed in descending order (from the closest event to the current date - 22.08.2018). 
 
 ## My solution - Explanation
 
